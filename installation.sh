@@ -1,2 +1,2 @@
-sudo mv basicsys/basicsys /usr/bin
+sudo mv basicsys /usr/bin
 rm -rf basicsys
