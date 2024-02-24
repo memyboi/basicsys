@@ -6,4 +6,4 @@ basic bash script to get basic system info (linux only)
 - thats about it
 
 ## installation:
-`git clone https://github.com/memyboi/basicsys /usr/bin/basicsys --depth 1 && basicsys`
+`git clone https://github.com/memyboi/basicsys && bash ./basicsys/installation.sh`
