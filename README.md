@@ -1,5 +1,8 @@
 # basicsys
-basic bash script to get basic system info (linux only)  
+basic bash script to get basic system info (linux only, will error out on other OSes)  
+
+## preview:
+<img src="example.png">
   
 ## requirements:  
 - bash
